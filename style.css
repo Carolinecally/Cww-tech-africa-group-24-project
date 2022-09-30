@@ -102,10 +102,13 @@ header .icons span:last-child{
 }
 
 .footer {
+    text-size-adjust: 1.2rem;
     background: #1d3044;
     color: #ffff;
     height: 70px;
     width: 100%;
     text-align: center;
     padding: 20px;
+    margin-bottom: 0rem;
+    font: 1em sans-serif;
 }
