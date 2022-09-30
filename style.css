@@ -102,7 +102,7 @@ header .icons span:last-child{
 }
 
 .footer {
-    text-size-adjust: 1.2rem;
+    text-size-adjust: 1.32rem;
     background: #1d3044;
     color: #ffff;
     height: 70px;
@@ -110,5 +110,4 @@ header .icons span:last-child{
     text-align: center;
     padding: 20px;
     margin-bottom: 0rem;
-    font: 1em sans-serif;
 }
